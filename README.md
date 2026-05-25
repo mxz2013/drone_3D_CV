@@ -232,12 +232,6 @@ uv run python projection_pipeline.py --pose-convention world_to_camera
 projection_pipeline.py
   Main implementation.
 
-notes/2d_pixel_to_3d_drone_notes.md
-  Dataset and geometry notes.
-
-notes/projection_workflow_selected_point.md
-  Step-by-step explanation of the selected-point experiment.
-
 outputs/projection_1671607414_199796915_u1406_v1493/
   Verification outputs for the current example.
 ```
@@ -259,4 +253,3 @@ camera calibration error
 ```
 
 So this repo should be understood as the first step: learn the ideal geometry, then use the verification tools here to diagnose real-world metadata errors.
-
