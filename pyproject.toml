@@ -1,0 +1,12 @@
+[project]
+name = "coding-practice"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "open3d>=0.19.0",
+    "pillow>=12.2.0",
+    "pymeshlab>=2025.7.post1",
+]
